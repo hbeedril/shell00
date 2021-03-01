@@ -1,0 +1,5 @@
+Credentials cache: API:D3261EC1-5B4A-4D0C-9496-43A173E66868
+        Principal: hbeedril@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Mar  1 20:02:04 2021  Mar  2 06:01:59 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
